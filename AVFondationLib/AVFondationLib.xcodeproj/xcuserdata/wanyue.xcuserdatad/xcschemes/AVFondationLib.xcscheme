@@ -17,7 +17,7 @@
                BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
                BuildableName = "AVFondationLib.app"
                BlueprintName = "AVFondationLib"
-               ReferencedContainer = "container:AVFondationLib.xcodeproj">
+               ReferencedContainer = "container:an.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "672C8A1D1D2CEDBE0045EA31"
                BuildableName = "AVFondationLibTests.xctest"
                BlueprintName = "AVFondationLibTests"
-               ReferencedContainer = "container:AVFondationLib.xcodeproj">
+               ReferencedContainer = "container:an.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -45,7 +45,7 @@
             BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
             BuildableName = "AVFondationLib.app"
             BlueprintName = "AVFondationLib"
-            ReferencedContainer = "container:AVFondationLib.xcodeproj">
+            ReferencedContainer = "container:an.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -68,7 +68,7 @@
             BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
             BuildableName = "AVFondationLib.app"
             BlueprintName = "AVFondationLib"
-            ReferencedContainer = "container:AVFondationLib.xcodeproj">
+            ReferencedContainer = "container:an.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -87,7 +87,7 @@
             BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
             BuildableName = "AVFondationLib.app"
             BlueprintName = "AVFondationLib"
-            ReferencedContainer = "container:AVFondationLib.xcodeproj">
+            ReferencedContainer = "container:an.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
