@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AVFondationLib/AVFondationLib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReplayKitLib/ReplayKitLib.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:EventKitTest/EventKitTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:AddressBookUILib/AddressBookUILib.xcodeproj">
+   </FileRef>
+</Workspace>
