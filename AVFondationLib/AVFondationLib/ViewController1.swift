@@ -19,12 +19,12 @@ class ViewController1: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let button = UIButton(frame: CGRect(x: 20, y: 50, width: 90, height: 30))
+        let button = UIButton(frame: CGRect(x: 20, y: 60, width: 90, height: 30))
         button.addTarget(self, action: #selector(ViewController1.playMovie), forControlEvents: UIControlEvents.TouchUpInside)
         button.setTitle("播放/停止", forState: UIControlState.Normal)
         button.backgroundColor = UIColor.blueColor()
         
-        let button1 = UIButton(frame: CGRect(x: 120, y: 50, width: 90, height: 30))
+        let button1 = UIButton(frame: CGRect(x: 120, y: 60, width: 90, height: 30))
         button1.addTarget(self, action: #selector(ViewController1.combainVideo), forControlEvents: UIControlEvents.TouchUpInside)
         button1.setTitle("视频合并", forState: UIControlState.Normal)
         button1.backgroundColor = UIColor.blueColor()
@@ -230,10 +230,12 @@ class ViewController1: UIViewController {
         
         if !playLayer!.hidden {
             self.playLayer?.hidden = true
+            self.playLayer?.player?.pause()
             return;
         }
+        
         playLayer?.player?.rate = 1.0
-    
+        playLayer?.player?.play()
         playLayer?.hidden = false
     
     }

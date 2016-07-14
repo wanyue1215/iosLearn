@@ -17,7 +17,7 @@
                BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
                BuildableName = "AVFondationLib.app"
                BlueprintName = "AVFondationLib"
-               ReferencedContainer = "container:an.xcodeproj">
+               ReferencedContainer = "container:AVFondationLib.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "672C8A1D1D2CEDBE0045EA31"
-               BuildableName = "AVFondationLibTests.xctest"
-               BlueprintName = "AVFondationLibTests"
-               ReferencedContainer = "container:an.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -45,7 +35,7 @@
             BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
             BuildableName = "AVFondationLib.app"
             BlueprintName = "AVFondationLib"
-            ReferencedContainer = "container:an.xcodeproj">
+            ReferencedContainer = "container:AVFondationLib.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -68,7 +58,7 @@
             BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
             BuildableName = "AVFondationLib.app"
             BlueprintName = "AVFondationLib"
-            ReferencedContainer = "container:an.xcodeproj">
+            ReferencedContainer = "container:AVFondationLib.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -87,7 +77,7 @@
             BlueprintIdentifier = "672C8A091D2CEDBE0045EA31"
             BuildableName = "AVFondationLib.app"
             BlueprintName = "AVFondationLib"
-            ReferencedContainer = "container:an.xcodeproj">
+            ReferencedContainer = "container:AVFondationLib.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

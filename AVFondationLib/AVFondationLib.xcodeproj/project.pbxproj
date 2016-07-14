@@ -13,6 +13,7 @@
 		672C8A151D2CEDBE0045EA31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 672C8A141D2CEDBE0045EA31 /* Assets.xcassets */; };
 		672C8A181D2CEDBE0045EA31 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 672C8A161D2CEDBE0045EA31 /* LaunchScreen.storyboard */; };
 		672C8A231D2CEDBE0045EA31 /* AVFondationLibTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672C8A221D2CEDBE0045EA31 /* AVFondationLibTests.swift */; };
+		673C679D1D37675200A7C225 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 673C679C1D37675200A7C225 /* ViewController2.swift */; };
 		67B7E8431D2F8BC400BE7014 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B7E8421D2F8BC400BE7014 /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		672C8A1E1D2CEDBE0045EA31 /* AVFondationLibTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AVFondationLibTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		672C8A221D2CEDBE0045EA31 /* AVFondationLibTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AVFondationLibTests.swift; sourceTree = "<group>"; };
 		672C8A241D2CEDBE0045EA31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		673C679C1D37675200A7C225 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		67B7E8421D2F8BC400BE7014 /* ViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 				672C8A0D1D2CEDBE0045EA31 /* AppDelegate.swift */,
 				672C8A0F1D2CEDBE0045EA31 /* ViewController.swift */,
 				67B7E8421D2F8BC400BE7014 /* ViewController1.swift */,
+				673C679C1D37675200A7C225 /* ViewController2.swift */,
 				672C8A111D2CEDBE0045EA31 /* Main.storyboard */,
 				672C8A141D2CEDBE0045EA31 /* Assets.xcassets */,
 				672C8A161D2CEDBE0045EA31 /* LaunchScreen.storyboard */,
@@ -156,7 +159,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 672C8A051D2CEDBE0045EA31 /* Build configuration list for PBXProject "an" */;
+			buildConfigurationList = 672C8A051D2CEDBE0045EA31 /* Build configuration list for PBXProject "AVFondationLib" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -201,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67B7E8431D2F8BC400BE7014 /* ViewController1.swift in Sources */,
+				673C679D1D37675200A7C225 /* ViewController2.swift in Sources */,
 				672C8A101D2CEDBE0045EA31 /* ViewController.swift in Sources */,
 				672C8A0E1D2CEDBE0045EA31 /* AppDelegate.swift in Sources */,
 			);
@@ -376,7 +380,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		672C8A051D2CEDBE0045EA31 /* Build configuration list for PBXProject "an" */ = {
+		672C8A051D2CEDBE0045EA31 /* Build configuration list for PBXProject "AVFondationLib" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				672C8A251D2CEDBE0045EA31 /* Debug */,
